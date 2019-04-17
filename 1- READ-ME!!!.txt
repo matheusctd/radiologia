@@ -1,0 +1,1 @@
+Esse atualizador serve apenas para os BPAs da RADIOLOGIA devido aos nomes de diretórios e caminhos descritos no bat, caso seja necessário utilizar em outro departamento, edite esses detalhes no código do script.
